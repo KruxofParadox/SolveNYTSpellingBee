@@ -8,7 +8,7 @@ The project is coded exclusively using python, however I plan on fully porting i
 
 ## Using the Code
 
-Once you run the program, you will first enter the key letter for the day, that being the one presented in the center of the hexagon on the NYT website. Then, you will enter in the remaining six letters for the day and hit enter. You will then be the 50 most frequently used words that are solutions to the puzzle.
+Once you run the program, you will first enter the key letter for the day, that being the one presented in the center of the hexagon on the NYT website. Then, you will enter in the remaining six letters for the day and hit enter. You will then be given the 50 most frequently used words that are solutions to the puzzle.
 
 ## Future Plans
 
